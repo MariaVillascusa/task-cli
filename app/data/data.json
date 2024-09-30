@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1234,
+        "description": "Llamar al Product Manager",
+        "status": "pending",
+        "createdAt": "2024-09-30",
+        "updatedAt": "2024-09-30"
+    },
+    {
+        "id": 1235,
+        "description": "Revisar el c\u00f3digo de la aplicaci\u00f3n",
+        "status": "pending",
+        "createdAt": "2024-09-30",
+        "updatedAt": "2024-09-30"
+    },
+    {
+        "id": 1236,
+        "description": "Enviar reporte de errores",
+        "status": "pending",
+        "createdAt": "2024-09-30",
+        "updatedAt": "2024-09-30"
+    },
+    {
+        "id": "5d6db98a-b055-4a8a-8ba7-7a7cb2bcf5b2",
+        "description": "aaaa",
+        "status": "asd",
+        "createdAt": "2024-10-01 00:16:41",
+        "updatedAt": "2024-10-01 00:16:41"
+    },
+    {
+        "id": "ef712578-55a4-4384-8f5a-508737a58b08",
+        "description": "Tarea creada por CLI",
+        "status": "done",
+        "createdAt": "2024-10-01 00:39:42",
+        "updatedAt": "2024-10-01 00:39:42"
+    },
+    {
+        "id": "d6036916-de4c-45bf-a895-9f200b63b2b6",
+        "description": "flow",
+        "status": "done",
+        "createdAt": "2024-10-01 01:04:08",
+        "updatedAt": "2024-10-01 01:04:08"
+    },
+    {
+        "id": "3a25bc88-3311-4773-a2c1-a47e42ad0eb8",
+        "description": "look",
+        "status": "pending",
+        "createdAt": "2024-10-01 01:06:23",
+        "updatedAt": "2024-10-01 01:06:23"
+    },
+    {
+        "id": "7b804a3f-98ac-4364-97c0-a503c36947d6",
+        "description": "wooow",
+        "status": "pending",
+        "createdAt": "2024-10-01 01:07:23",
+        "updatedAt": "2024-10-01 01:07:23"
+    },
+    {
+        "id": "2a9a35c2-203e-4f4d-b82a-20b93ad8b92f",
+        "description": "what",
+        "status": "in-progress",
+        "createdAt": "2024-10-01 01:07:59",
+        "updatedAt": "2024-10-01 01:24:10"
+    }
+]
