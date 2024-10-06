@@ -3,10 +3,8 @@ from datetime import datetime
 from app.services.task_handler import load_tasks, save_tasks
 
 
-def mark_as_in_progress():
-    print("Mark as in progress")
+def mark_as_in_progress(task_to_mark):
     tasks = load_tasks()
-    task_to_mark = input("Enter the task id to mark as in progress: ")
     for task in tasks:
         if task["id"] == task_to_mark:
             task["status"] = "in-progress"
